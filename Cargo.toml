@@ -1,0 +1,13 @@
+[package]
+name = "vis"
+version = "0.0.0"
+authors = ["noxnix"]
+edition = "2018"
+license = "MIT"
+description = "reserved for future use"
+# homepage = 
+# documentation = 
+repository = "https://github.com/noxnix/hilo"
+readme = "README.md"
+
+[dependencies]
