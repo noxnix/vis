@@ -7,7 +7,7 @@ license = "MIT"
 description = "reserved for future use"
 # homepage = 
 # documentation = 
-repository = "https://github.com/noxnix/hilo"
+repository = "https://github.com/noxnix/vis"
 readme = "README.md"
 
 [dependencies]
